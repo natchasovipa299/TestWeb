@@ -15,7 +15,7 @@ namespace tamzazaapi.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Tod Tod Tod Puad Tod";
+            return "Tod";
         }
 
         // GET api/values/5
